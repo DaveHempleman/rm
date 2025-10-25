@@ -1,10 +1,10 @@
-# rm
-6457_Research
+# EGN 6457 - Research Methods
+6457_Research exercise, October 25, 2025
 
-## Heading 2
+## Data Management
 
-### Heading 3
+### Data Management Planning and Repository
 
-I put my text here.                 
+My data will be stored in this repository. The information will be used to support my research of migration of the center of mass of dissolved perchlorate in groundwater.      
                      
-This is a new paragraph.
+This research repository will also contain any computer codes that I use to organize, process, or reduce the data into usable graphics for further analysis.
